@@ -7,14 +7,13 @@ export default navbar([
     text: "Programs", 
     icon: "creative", 
     children: [
-      { text: "Software Documentation Class", link: "/courses/SoftwareDocumentation/", icon: "creative" },
-      { text: "Extra", link: "/courses/Extra/", icon: "creative" },
+      { text: "Software Documentation Class", link: "/courses/SoftwareDocumentation/", icon: "creative" }
     ]},
   { text: "Resources", 
     icon: "note", 
     children: [
-      { text: "Class Resources", link: "/resources/README.md"},
-      { text: "Codespace Resources", link: "/resources/02.md"},
+      { text: "Useful Links", link: "/resources/README.md"},
+      { text: "References and Citations", link: "/resources/02.md"},
       { text: "Training Development Docs", link: "/resources/03.md"},
     ]},
   // { text: "Theme Docs", icon: "note", link: "https://vuepress-theme-hope.github.io/v2/" },

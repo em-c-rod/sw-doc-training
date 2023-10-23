@@ -10,14 +10,6 @@ export default sidebar([
     collapsable: true
   },
   {
-    icon: "creative",
-    text: "Extra",
-    prefix: "/courses/Extra/",
-    link: "/courses/Extra/",
-    children: "structure",
-    collapsable: true
-  },
-  {
     icon: "note",
     text: "Resources",
     prefix: "/resources/",
