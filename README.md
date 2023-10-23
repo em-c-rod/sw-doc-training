@@ -9,8 +9,8 @@ actions:
   - text: Getting Started
     link: /courses/SoftwareDocumentation/
     type: primary
-  - text: Reference Link Example
-    link: https://github.com/mitre/saf-training-lab-environment
+  - text: Class References
+    link: ./resources
 
 features:
   - title: Strengthen the basics
