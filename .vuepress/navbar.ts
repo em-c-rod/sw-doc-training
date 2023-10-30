@@ -7,7 +7,8 @@ export default navbar([
     text: "Programs", 
     icon: "creative", 
     children: [
-      { text: "Software Documentation Class", link: "/courses/SoftwareDocumentation/", icon: "creative" }
+      { text: "Software Documentation Class", link: "/courses/SoftwareDocumentation/", icon: "creative" },
+      { text: "Be Concise", link: "/courses/concise/", icon: "creative" }
     ]},
   { text: "Resources", 
     icon: "note", 

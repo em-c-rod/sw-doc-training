@@ -10,6 +10,14 @@ export default sidebar([
     collapsable: true
   },
   {
+    icon: "creative",
+    text: "Be Concise",
+    prefix: "/courses/concise/",
+    link: "/courses/concise/",
+    children: "structure",
+    collapsable: true
+  },
+  {
     icon: "note",
     text: "Resources",
     prefix: "/resources/",
