@@ -1,5 +1,5 @@
 ---
-index: 1
+next: 02.md
 title: 1. Background
 author: Emily
 headerDepth: 3

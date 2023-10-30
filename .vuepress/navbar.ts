@@ -7,8 +7,12 @@ export default navbar([
     text: "Programs", 
     icon: "creative", 
     children: [
-      { text: "Software Documentation Class", link: "/courses/SoftwareDocumentation/", icon: "creative" },
-      { text: "Be Concise", link: "/courses/concise/", icon: "creative" }
+      { text: "Getting Started", link: "/courses/SoftwareDocumentation/", icon: "creative" },
+      { text: "Be Concise", link: "/courses/concise/", icon: "creative" },
+      { text: "Be Complete", link: "/courses/complete/", icon: "creative" },
+      { text: "Be Accurate", link: "/courses/accurate/", icon: "creative" },
+      { text: "Be Big Picture", link: "/courses/big-picture/", icon: "creative" },
+      { text: "Put It In Practice", link: "/courses/practice/", icon: "creative" }
     ]},
   { text: "Resources", 
     icon: "note", 

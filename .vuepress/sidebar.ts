@@ -3,7 +3,7 @@ import { sidebar } from "vuepress-theme-hope";
 export default sidebar([
   {
     icon: "creative",
-    text: "SoftwareDocumentation",
+    text: "Getting Started",
     prefix: "/courses/SoftwareDocumentation/",
     link: "/courses/SoftwareDocumentation/",
     children: "structure",
@@ -18,21 +18,53 @@ export default sidebar([
     collapsable: true
   },
   {
+    icon: "creative",
+    text: "Be Complete",
+    prefix: "/courses/concise/",
+    link: "/courses/complete/",
+    children: "structure",
+    collapsable: true
+  },
+  {
+    icon: "creative",
+    text: "Be Accurate",
+    prefix: "/courses/concise/",
+    link: "/courses/accurate/",
+    children: "structure",
+    collapsable: true
+  },
+  {
+    icon: "creative",
+    text: "Be Big Picture",
+    prefix: "/courses/concise/",
+    link: "/courses/big-picture/",
+    children: "structure",
+    collapsable: true
+  },
+  {
+    icon: "creative",
+    text: "Put It In Practice",
+    prefix: "/courses/practice/",
+    link: "/courses/practice/",
+    children: "structure",
+    collapsable: true
+  },
+  {
     icon: "note",
     text: "Resources",
     prefix: "/resources/",
     link: "/resources/",
     children: "structure",
     collapsable: true
-  },
-  {
-    icon: "note",
-    text: "Installation",
-    prefix: "/installation/",
-    link: "/installation/",
-    children: "structure",
-    collapsable: true
   }
+  // {
+  //   icon: "note",
+  //   text: "Installation",
+  //   prefix: "/installation/",
+  //   link: "/installation/",
+  //   children: "structure",
+  //   collapsable: true
+  // }
   // {
   //   icon: "document",
   //   text: "Installation",
