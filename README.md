@@ -1,9 +1,9 @@
 ---
 home: true
 icon: home
-title: Software Documentation Training
+title: Home
 # heroImage: /logo.svg
-heroText: Software Documentation Training
+heroText: Technical Writing for Software Professionals
 tagline: A reference guide for professionals to write effective software documentation.
 actions:
   - text: Getting Started

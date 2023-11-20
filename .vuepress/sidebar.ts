@@ -20,7 +20,7 @@ export default sidebar([
   {
     icon: "creative",
     text: "Be Complete",
-    prefix: "/courses/concise/",
+    prefix: "/courses/complete/",
     link: "/courses/complete/",
     children: "structure",
     collapsable: true
@@ -28,7 +28,7 @@ export default sidebar([
   {
     icon: "creative",
     text: "Be Accurate",
-    prefix: "/courses/concise/",
+    prefix: "/courses/accurate/",
     link: "/courses/accurate/",
     children: "structure",
     collapsable: true
@@ -36,7 +36,7 @@ export default sidebar([
   {
     icon: "creative",
     text: "Be Big Picture",
-    prefix: "/courses/concise/",
+    prefix: "/courses/big-picture/",
     link: "/courses/big-picture/",
     children: "structure",
     collapsable: true
