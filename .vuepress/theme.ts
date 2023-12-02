@@ -3,10 +3,10 @@ import navbar from "./navbar";
 import sidebar from "./sidebar";
 
 export default hopeTheme({
-  hostname: "https://mitre.github.io/",
+  hostname: "https://em-c-rod.github.io/",
   author: {
-    name: "MITRE SAF Team",
-    url: "https://saf.mitre.org",
+    name: "Emily Rodriguez",
+    url: "https://github.com/em-c-rod",
   },
 
   iconAssets: "//at.alicdn.com/t/font_2410206_h4r1xw8ppng.css",
@@ -14,7 +14,7 @@ export default hopeTheme({
 
   // logo: "/logo.svg",
 
-  repo: "mitre/saf-training",
+  repo: "em-c-rod/sw-doc-training",
 
   // docsDir: "demo/src",
 
@@ -24,7 +24,7 @@ export default hopeTheme({
   // sidebar
   sidebar: sidebar,
 
-  footer: "Apache-2.0 | Copyright © 2022 - The MITRE Corporation",
+  // footer: "Apache-2.0 | Copyright © 2023",
 
   displayFooter: true,
 
@@ -85,39 +85,11 @@ export default hopeTheme({
        * Using giscus
        */
       type: "giscus",
-      repo: "mitre/saf-training",
+      repo: "em-c-rod/sw-doc-training",
       repoId: "R_kgDOH3sAZQ",
       category: "Ideas",
       categoryId: "DIC_kwDOH3sAZc4CRApY",
       mapping: "pathname",
-
-      /**
-       * 
-<script src="https://giscus.app/client.js"
-        data-repo="mitre/saf-training"
-        data-repo-id="R_kgDOH3sAZQ"
-        data-category="Ideas"
-        data-category-id="DIC_kwDOH3sAZc4CRApY"
-        data-mapping="pathname"
-        data-strict="0"
-        data-reactions-enabled="1"
-        data-emit-metadata="0"
-        data-input-position="bottom"
-        data-theme="preferred_color_scheme"
-        data-lang="en"
-        crossorigin="anonymous"
-        async>
-</script>
-       * Using twikoo
-       */
-      // type: "twikoo",
-      // envId: "https://twikoo.ccknbc.vercel.app",
-
-      /**
-       * Using Waline
-       */
-      // type: "waline",
-      // serverURL: "https://vuepress-theme-hope-comment.vercel.app",
     },
 
     mdEnhance: {

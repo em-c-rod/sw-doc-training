@@ -1,7 +1,7 @@
 {
-  "name": "saf-training",
+  "name": "software-documentation",
   "version": "1.0.0",
-  "description": "The MITRE SAF Team's training library.",
+  "description": "Technical writing training for software professionals.",
   "license": "Apache-2.0",
   "scripts": {
     "docs:build": "vuepress build .",
