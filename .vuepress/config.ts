@@ -6,6 +6,6 @@ export default defineUserConfig({
   title: "Technical Writing for Software Professionals",
   description: "A reference guide for professionals to write effective software documentation.",
 
-  base: process.env.GITHUB_DEPLOY === "true" ? "/docs/" : "/",
+  base: process.env.GITHUB_DEPLOY === "true" ? "/sw-doc-training/" : "/",
   theme,
 });
