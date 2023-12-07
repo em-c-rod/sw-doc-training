@@ -7,7 +7,7 @@ export default sidebar([
     prefix: "/courses/SoftwareDocumentation/",
     link: "/courses/SoftwareDocumentation/",
     children: "structure",
-    collapsable: true
+    collapsible: true
   },
   {
     icon: "creative",
@@ -15,7 +15,7 @@ export default sidebar([
     prefix: "/courses/concise/",
     link: "/courses/concise/",
     children: "structure",
-    collapsable: true
+    collapsible: true
   },
   {
     icon: "creative",
@@ -23,7 +23,7 @@ export default sidebar([
     prefix: "/courses/complete/",
     link: "/courses/complete/",
     children: "structure",
-    collapsable: true
+    collapsible: true
   },
   {
     icon: "creative",
@@ -31,7 +31,7 @@ export default sidebar([
     prefix: "/courses/accurate/",
     link: "/courses/accurate/",
     children: "structure",
-    collapsable: true
+    collapsible: true
   },
   {
     icon: "creative",
@@ -39,7 +39,7 @@ export default sidebar([
     prefix: "/courses/big-picture/",
     link: "/courses/big-picture/",
     children: "structure",
-    collapsable: true
+    collapsible: true
   },
   {
     icon: "creative",
@@ -47,7 +47,7 @@ export default sidebar([
     prefix: "/courses/practice/",
     link: "/courses/practice/",
     children: "structure",
-    collapsable: true
+    collapsible: true
   },
   {
     icon: "note",
@@ -55,7 +55,7 @@ export default sidebar([
     prefix: "/resources/",
     link: "/resources/",
     children: "structure",
-    collapsable: true
+    collapsible: true
   }
   // {
   //   icon: "note",
@@ -63,7 +63,7 @@ export default sidebar([
   //   prefix: "/installation/",
   //   link: "/installation/",
   //   children: "structure",
-  //   collapsable: true
+  //   collapsible: true
   // }
   // {
   //   icon: "document",
@@ -80,7 +80,7 @@ export default sidebar([
   //     {
   //       text: "Articles 1-4",
   //       icon: "note",
-  //       collapsable: true,
+  //       collapsible: true,
   //       prefix: "article/",
   //       children: ["article1", "article2", "article3", "article4"],
   //     },
@@ -91,7 +91,7 @@ export default sidebar([
   //         {
   //           text: "Articles 5-8",
   //           icon: "note",
-  //           collapsable: true,
+  //           collapsible: true,
   //           prefix: "article/",
   //           children: ["article5", "article6", "article7", "article8"],
   //         },
