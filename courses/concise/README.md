@@ -36,8 +36,6 @@ typed language.
 ```
 :::
 
-<!-- ::: -->
-
 ::: details What we think
 
 Each of the statements have something that could be more concise. 
