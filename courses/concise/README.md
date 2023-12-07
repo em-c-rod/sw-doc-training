@@ -13,7 +13,6 @@ Often, when we eliminate words, the result is more powerful and understandable. 
 Take a moment to gather an example writing sample, whether a README, code comment, email, or otherwise that you can use to gauge your current style and practice improving. If you have not written anything, consider using a piece of open source software documentation.
 :::
 
-<!-- ::: info  -->
 ## 1.2 Warm Up Example
 Try it out! Which of the following are examples of concise language?
 
