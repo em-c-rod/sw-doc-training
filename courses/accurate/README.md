@@ -37,7 +37,19 @@ Whether for readability, grammar, or accuracte instructions, reviewing, reading,
 Read the example sentence above. Do you see any issues?
 :::
 
+::: details Read it again!
+Did you catch the repeated word, "the"? It is common that our eyes and minds may skip over mistakes, especially when we are the author of some written content. This includes mistakes like repeated words, grammar issues, or incorrect or omitted technical information.
+:::
 
-::: note Check your work
+### Check your work
+
+Always read what you write. You may need to go through several iterations before feeling satisfied with the quality. Just like the common practice of code reviews on software teams, consider having another person read your writing to give feedback that may be more difficult for you to catch. 
+
+Strategies for documentation review:
+- Read paragraphs backwards, one sentence at a time, to change the flow and potentially catch errors.
+- Have a colleague, user, or other individual read the documentation and provide feedback. It is best to have a representative of the target audience do so to make sure the language is understandable for the audience.
+- Take action. If you are writing instructions or any documentation that describes actions like application functionality, download instructions, etc, read the instructions and do the action to test that the information is accurate.
+
+::: note Useful Tools
 Online tools exist that can identify words used more than once. For example, [this online text tool](https://onlinetexttools.com/find-duplicate-text-words) is one of many ways you can test your own documentation to start to find duplicate words - whether simply repeated as errors or whether to make your documentation simpler as discussed in [the Be Concise section](../concise/03.md). You could even write your own software script to help you with your documentation!
 :::
