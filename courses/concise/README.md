@@ -7,10 +7,10 @@ headerDepth: 3
 
 ## 1.1 Less is More
 
-Often, when we eliminate words, the result is more powerful and understandable. Learn how to write concisely in this section.
+Often, when we eliminate words, the result is more powerful and understandable. Additionally, words are the building blocks of all writing. Use words intentionally to convey the best meaning. Learn how to write concisely with intentional word choice in this section.
 
 ::: tip Practice as you learn. 
-Take a moment to gather an example writing sample, whether a README, code comment, email, or otherwise that you can use to gauge your current style and practice improving. If you have not written anything, consider using a piece of open source software documentation.
+Take a moment to gather an example writing sample, whether a README, code comment, email, or anything else that you can use to gauge your current style and practice improving. If you cannot find a piece of your own writing, consider using a piece of open source software documentation.
 :::
 
 ## 1.2 Warm Up Example
@@ -22,7 +22,7 @@ Try it out! Which of the following are examples of concise language?
 
 ```sh
 The application programming language is really a 
-dynamically typed.
+dynamically typed language.
 ```
 @tab B
 ```sh
@@ -48,8 +48,8 @@ Each of the statements have something that could be more concise.
 ## 1.3 Learn to Be Concise
 
 This section will cover techniques to write concise language including:
-1. Using active voice vs. passive voice
-2. Choosing meaningful words
+1. Choosing meaningful words
+2. Using active voice vs. passive voice
 3. Monitoring word, sentence, and paragraph length
 4. Writing to the scope of the topic 
 
