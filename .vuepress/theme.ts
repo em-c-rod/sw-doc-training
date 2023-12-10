@@ -80,17 +80,14 @@ export default hopeTheme({
     // If you don't need comment feature, you can remove following option
     // The following config is for demo ONLY, if you need comment feature, please generate and use your own config, see comment plugin documentation for details.
     // To avoid disturbing the theme developer and consuming his resources, please DO NOT use the following config directly in your production environment!!!!!
-    // comment: {
-    //   /**
-    //    * Using giscus
-    //    */
-    //   type: "giscus",
-    //   repo: "em-c-rod/sw-doc-training",
-    //   repoId: "R_kgDOH3sAZQ",
-    //   category: "Ideas",
-    //   categoryId: "DIC_kwDOH3sAZc4CRApY",
-    //   mapping: "pathname",
-    // },
+    comment: {
+      provider: "Giscus",
+      repo: "em-c-rod/sw-doc-training",
+      repoId: "R_kgDOKjtAYQ",
+      category: "Ideas",
+      categoryId: "DIC_kwDOKjtAYc4CbosV",
+      mapping: "pathname",
+    },
 
     // All features are enabled for demo, only preserve features you need here
     mdEnhance: {

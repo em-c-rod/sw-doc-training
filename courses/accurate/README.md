@@ -52,4 +52,7 @@ Strategies for documentation review:
 
 ::: note Useful Tools
 Online tools exist that can identify words used more than once. For example, [this online text tool](https://onlinetexttools.com/find-duplicate-text-words) is one of many ways you can test your own documentation to start to find duplicate words - whether simply repeated as errors or whether to make your documentation simpler as discussed in [the Be Concise section](../concise/03.md). You could even write your own software script to help you with your documentation!
+Also, many times Markdown files or other software files used for documentation do not have built-in checks for written grammar, such as misspellings and duplicate words due to software code not obliging by the same grammar rules. When writing written sentences, consider copying the content into a text editor that does have these features like Word, Google Docs, or others, to identify grammar mistakes before returning to the code copy.
 :::
+
+1. Consistent verb tense!
