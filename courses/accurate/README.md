@@ -50,7 +50,7 @@ Whether due to technical or grammar errors, inaccuracies in documentation can cr
 ## 3 Learn to Be Accurate
 
 Follow these habits to maintain accruacy in software documentation:
-1. Use correct terms to convey technical information
+1. Use correct technical information
 2. Use correct grammar <!-- https://pressbooks.bccampus.ca/technicalwriting/chapter/communicatingprecision/ -->
 3. Test your documentation <!-- https://www.gcu.edu/blog/criminal-justice-government-and-public-administration/best-practices-technical-writing -->
 
