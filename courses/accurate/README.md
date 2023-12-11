@@ -9,37 +9,43 @@ headerDepth: 3
 Consistency is accuracy. Accuracy is quality and credibility. 
 
 ::: tip
-Consider code standards for how you document your code. Do all functions have a given header, etc.?
+Consider code standards for how you document your code consistently. Reference documented standards when in doubt on how to document something. For example, [IEEE](https://www.ieee.org/) is one organization with available standards for engineers. You can also seek out specifialized standards like specific guides for how to document command line tools or how to document APIs.
 :::
 
 <!-- https://home.csulb.edu/~tgredig/docs/TechnicalWriting1.pdf -->
-Accuracy is important to communicate effectively and to establish credibility. California State University explains "inconsistencies in technical writing will confuse your readers and convince them that your scientific work and reasoning are as sloppy and unorganized as your prose."
+Accuracy is important to communicate effectively and to establish credibility. [California State University](https://home.csulb.edu/~tgredig/docs/TechnicalWriting1.pdf) explains "inconsistencies in technical writing will confuse your readers and convince them that your scientific work and reasoning are as sloppy and unorganized as your prose."
 
 ## 2 Warm Up Example
-Try it out! 
+Try it out! Consider the accuracy of the following examples:
 
 ::: code-tabs#shell
 
 @tab A
 
-```sh
-On
+```
+To save your document in Microsoft Word, click on the 'File' menu, then select 'Save As'. 
+Choose your desired location, then click 'Save'.
 ```
 @tab B
-```sh
-To 
+```
+To shut down a Windows computer, click on the 'Start' button, then select 'Shut Down'.
 ```
 @tab C
 ```
-Fi
+To send an email in Gmail, click on the 'Cmpose' button. 
+Write your your email, then click 'Send'.
 ```
 :::
 
 ::: details What we think
 
-Alth
+A - This statement is accurate. The steps to save a document in Microsoft Word are correctly described.
+B - This statement is inaccurate for technical reasons. To shut down a Windows computer, you need to click on the 'Start' button, then select the 'Power' option, and finally select 'Shut Down'.
+C - This statement is inaccurate due to grammar mistakes. Although technically accuracte, the instructions are inaccruate because the button is the 'Compose' button, not 'Cmpose', and the word "your" is repeated unnecessarily.
 
 :::
+
+Whether due to technical or grammar errors, inaccuracies in documentation can create confusion, lack of trust, and errors for the readers.
 
 ## 3 Learn to Be Accurate
 
