@@ -5,8 +5,7 @@ author: Emily
 headerDepth: 3
 ---
 
-## Why is accuracy important?
-
+## 1 Why is Accuracy Important?
 Consistency is accuracy. Accuracy is quality and credibility. 
 
 ::: tip
@@ -16,43 +15,37 @@ Consider code standards for how you document your code. Do all functions have a 
 <!-- https://home.csulb.edu/~tgredig/docs/TechnicalWriting1.pdf -->
 Accuracy is important to communicate effectively and to establish credibility. California State University explains "inconsistencies in technical writing will confuse your readers and convince them that your scientific work and reasoning are as sloppy and unorganized as your prose."
 
-## How can I write accurate software documentation?
+## 2 Warm Up Example
+Try it out! 
+
+::: code-tabs#shell
+
+@tab A
+
+```sh
+On
+```
+@tab B
+```sh
+To 
+```
+@tab C
+```
+Fi
+```
+:::
+
+::: details What we think
+
+Alth
+
+:::
+
+## 3 Learn to Be Accurate
 
 Follow these habits to maintain accruacy in software documentation:
-<!-- https://www.gcu.edu/blog/criminal-justice-government-and-public-administration/best-practices-technical-writing -->
-1. Test your documentation
+1. Use correct terms to convey technical information
 2. Use correct grammar <!-- https://pressbooks.bccampus.ca/technicalwriting/chapter/communicatingprecision/ -->
-3. Use correct terms to convey technical information
+3. Test your documentation <!-- https://www.gcu.edu/blog/criminal-justice-government-and-public-administration/best-practices-technical-writing -->
 
-Define terms for varying audiences
-
-## 1. Test your documentation
-
-Whether for readability, grammar, or accuracte instructions, reviewing, reading, and testing the documentation by putting yourself in the shoes of the typical reader, you may find inaccuracies. 
-
-### Example
-"Despite the the fact that the software update was supposed to improve functionality, many users reported experiencing glitches."
-
-::: info
-Read the example sentence above. Do you see any issues?
-:::
-
-::: details Read it again!
-Did you catch the repeated word, "the"? It is common that our eyes and minds may skip over mistakes, especially when we are the author of some written content. This includes mistakes like repeated words, grammar issues, or incorrect or omitted technical information.
-:::
-
-### Check your work
-
-Always read what you write. You may need to go through several iterations before feeling satisfied with the quality. Just like the common practice of code reviews on software teams, consider having another person read your writing to give feedback that may be more difficult for you to catch. 
-
-Strategies for documentation review:
-- Read paragraphs backwards, one sentence at a time, to change the flow and potentially catch errors.
-- Have a colleague, user, or other individual read the documentation and provide feedback. It is best to have a representative of the target audience do so to make sure the language is understandable for the audience.
-- Take action. If you are writing instructions or any documentation that describes actions like application functionality, download instructions, etc, read the instructions and do the action to test that the information is accurate.
-
-::: note Useful Tools
-Online tools exist that can identify words used more than once. For example, [this online text tool](https://onlinetexttools.com/find-duplicate-text-words) is one of many ways you can test your own documentation to start to find duplicate words - whether simply repeated as errors or whether to make your documentation simpler as discussed in [the Be Concise section](../concise/03.md). You could even write your own software script to help you with your documentation!
-Also, many times Markdown files or other software files used for documentation do not have built-in checks for written grammar, such as misspellings and duplicate words due to software code not obliging by the same grammar rules. When writing written sentences, consider copying the content into a text editor that does have these features like Word, Google Docs, or others, to identify grammar mistakes before returning to the code copy.
-:::
-
-1. Consistent verb tense!
+Let's get started!
