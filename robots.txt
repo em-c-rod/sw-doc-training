@@ -1,0 +1,5 @@
+
+User-agent:*
+Disallow:
+
+Sitemap: https://em-c-rod.github.io/sw-doc-training/sitemap.xml
